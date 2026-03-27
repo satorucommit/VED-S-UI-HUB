@@ -56,4 +56,4 @@ The hub currently features over a dozen unique interfaces, including:
 - `app/page.js`: The hub controller, managing the lifecycle from pre-intro to the book view.
 
 ---
-*Developed by [Vedant](https://github.com/yourusername) — Shifting the boundaries of web UI.*
+*Developed by [Vedant](https://github.com/satorucommit) — Shifting the boundaries of web UI.*
