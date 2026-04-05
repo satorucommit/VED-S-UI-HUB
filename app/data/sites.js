@@ -12,6 +12,7 @@ export const SITES = [
   { name: 'Wabi Sabi UI', desc: 'The Art of Imperfection. A meditative frontend experience inspired by the Japanese philosophy of wabi-sabi. Features a washi-paper palette, a canvas-based sumi-e ink cursor, hand-drawn UI elements, and a Kintsugi gallery where fractured lines mend with gold.', url: 'https://wabi-sabi-ui.vercel.app/', col: 'sage', rot: 2 },
   { name: 'Sakura UI', desc: 'Interactive Digital Garden. An elegant WebGL experience featuring an interactive sakura tree with dynamic wind effects and falling petals. Combines Japanese minimalist design with procedural fractal tree generation and fluid particle shaders.', url: 'https://sakura-interactive-ui.vercel.app/', col: 'burg', rot: -4 },
   { name: 'Deep Ocean UI', desc: 'Abyssal ROV Interface. A sophisticated deep-sea research HUD featuring real-time environmental telemetry, sonar mapping, and pressure-resistant sub-systems. Showcases bioluminescent visual feedback, fluid UI transitions, and a tactile marine-grade command center.', url: 'https://deep-ocean-ui.vercel.app/', col: 'dblue', rot: 6 },
+  { name: 'Japan UI', desc: 'A professional Japanese-inspired interface blending traditional aesthetics with modern web design. Features elegant typography, refined layouts, and a serene visual language rooted in Japanese design principles.', url: 'https://professional-japan-ui.vercel.app/', col: 'sage', rot: -3 },
 ];
 
 export const PAL = {
@@ -38,6 +39,7 @@ export const POS = [
   { x: 0.75, y: 0.30 },
   { x: 0.15, y: 0.80 },
   { x: 0.85, y: 0.75 },
+  { x: 0.45, y: 0.25 },
 ];
 
 export const FLOAT_ANIMS = ['fa', 'fb', 'fc', 'fd'];

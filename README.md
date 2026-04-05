@@ -19,6 +19,7 @@ The hub currently features over a dozen unique interfaces, including:
 - **Sakura UI**: An interactive digital garden with WebGL sakura trees.
 - **Particle Physics**: Neural Reactor V4.0 with kinetic shockwave simulations.
 - **Wabi Sabi UI**: Meditative frontend inspired by Japanese imperfection philosophy.
+- **Japan UI**: A professional Japanese-inspired interface blending traditional aesthetics with modern web design.
 - ...and many more premium UI experiments.
 
 ## ⚒ Tech Stack
